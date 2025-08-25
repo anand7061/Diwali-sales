@@ -69,7 +69,7 @@ Seaborn: For creating attractive and informative statistical graphics.
 Environment: Jupyter Notebook
 
 📁 Project Structure
-        ```diwali-sales-analysis/
+        diwali-sales-analysis/
         ├── data/
         │   └── Diwali Sales Data.csv     # The dataset used for the analysis
         ├── Diwali_Sales_Analysis.ipynb   # Main Jupyter Notebook with the code and analysis
