@@ -69,12 +69,12 @@ Seaborn: For creating attractive and informative statistical graphics.
 Environment: Jupyter Notebook
 
 📁 Project Structure
-    diwali-sales-analysis/
-    ├── data/
-    │   └── Diwali Sales Data.csv     # The dataset used for the analysis
-    ├── Diwali_Sales_Analysis.ipynb   # Main Jupyter Notebook with the code and analysis
-    ├── requirements.txt              # List of Python dependencies
-    └── README.md                     # This file
+        diwali-sales-analysis/
+        ├── data/
+        │   └── Diwali Sales Data.csv     # The dataset used for the analysis
+        ├── Diwali_Sales_Analysis.ipynb   # Main Jupyter Notebook with the code and analysis
+        ├── requirements.txt              # List of Python dependencies
+        └── README.md                     # This file
 🚀 How to Run this Project
 To get a local copy up and running, follow these simple steps.
 
