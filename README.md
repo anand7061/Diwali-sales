@@ -86,9 +86,9 @@ Jupyter Notebook or JupyterLab
 Installation
 Clone the repository:
 
-Bash
-
-  ```git clone https://github.com/your-username/diwali-sales-analysis.git```
+  Bash
+  
+    ```git clone https://github.com/your-username/diwali-sales-analysis.git```
   Navigate to the project directory:
 
 Bash
