@@ -21,7 +21,7 @@ What are the top-selling product categories?
 
 What is the relationship between customer age, gender, and their purchasing behavior?
 
-💡 Key Insights & Findings
+## 💡 Key Insights & Findings
 Based on the analysis, the following key insights were derived:
 
 Gender Dynamics: Women are the primary shoppers, accounting for approximately 65% of total sales and exhibiting a higher purchasing power than men.
@@ -69,12 +69,12 @@ Seaborn: For creating attractive and informative statistical graphics.
 Environment: Jupyter Notebook
 
 📁 Project Structure
-diwali-sales-analysis/
-├── data/
-│   └── Diwali Sales Data.csv     # The dataset used for the analysis
-├── Diwali_Sales_Analysis.ipynb   # Main Jupyter Notebook with the code and analysis
-├── requirements.txt              # List of Python dependencies
-└── README.md                     # This file
+  diwali-sales-analysis/
+  ├── data/
+  │   └── Diwali Sales Data.csv     # The dataset used for the analysis
+  ├── Diwali_Sales_Analysis.ipynb   # Main Jupyter Notebook with the code and analysis
+  ├── requirements.txt              # List of Python dependencies
+  └── README.md                     # This file
 🚀 How to Run this Project
 To get a local copy up and running, follow these simple steps.
 
@@ -88,17 +88,17 @@ Clone the repository:
 
 Bash
 
-  git clone https://github.com/your-username/diwali-sales-analysis.git
+  ```git clone https://github.com/your-username/diwali-sales-analysis.git```
   Navigate to the project directory:
 
 Bash
   
-  cd diwali-sales-analysis
+  ```cd diwali-sales-analysis```
   Install the required dependencies:
 
 Bash
 
-  pip install -r requirements.txt
+  ```pip install -r requirements.txt```
   Launch Jupyter Notebook:
 
 Bash
