@@ -115,7 +115,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 👤 Author
 ANAND KUMAR
 
-LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/anand-kumar-724472255/)
+LinkedIn: [linkedin](https://www.linkedin.com/in/anand-kumar-724472255/)
 
 GitHub: github.com/anand7061
 
