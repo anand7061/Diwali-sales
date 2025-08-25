@@ -88,18 +88,18 @@ Clone the repository:
 
 Bash
 
-git clone https://github.com/your-username/diwali-sales-analysis.git
-Navigate to the project directory:
+  git clone https://github.com/your-username/diwali-sales-analysis.git
+  Navigate to the project directory:
+
+Bash
+  
+  cd diwali-sales-analysis
+  Install the required dependencies:
 
 Bash
 
-cd diwali-sales-analysis
-Install the required dependencies:
-
-Bash
-
-pip install -r requirements.txt
-Launch Jupyter Notebook:
+  pip install -r requirements.txt
+  Launch Jupyter Notebook:
 
 Bash
 
