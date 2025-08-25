@@ -20,7 +20,7 @@ Which occupations are most represented among the buyers?
 What are the top-selling product categories?
 
 What is the relationship between customer age, gender, and their purchasing behavior?
-
+---
 ## 💡 Key Insights & Findings
 Based on the analysis, the following key insights were derived:
 
@@ -35,7 +35,7 @@ Marital Status Impact: Married individuals, particularly women, constitute the l
 Top Product Categories: The most popular product categories are Food, Clothing & Apparel, and Electronics & Gadgets.
 
 High-Value Occupations: Customers in the IT, Healthcare, and Aviation sectors are among the top spenders.
-
+---
 ## 📊 Visualizations
 The analysis is supported by a variety of visualizations created using Matplotlib and Seaborn, including:
 
@@ -52,7 +52,7 @@ Pie Charts: To represent the proportion of sales from different zones or custome
 Example: Sales by Gender
 
 Example: Sales by Product Category
-
+---
 ## 💻 Technologies Used
 Language: Python 3.x
 
@@ -69,6 +69,7 @@ Seaborn: For creating attractive and informative statistical graphics.
 Environment: Jupyter Notebook
 
 📁 Project Structure
+    ```Bash
         diwali-sales-analysis/
         ├── data/
         │   └── Diwali Sales Data.csv     # The dataset used for the analysis
